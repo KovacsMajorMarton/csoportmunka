@@ -1,0 +1,154 @@
+html {
+background-color: rgb(180, 179, 179);
+}
+
+
+body {
+    font-size: 16px;
+}
+
+
+div {
+    margin: 10px;
+width:700px;
+height:390px;
+padding: 10px;
+margin: 10px
+}
+
+
+img {
+    margin: 10px;
+    padding: 10px;
+width:250px;
+height:120px;
+}
+
+
+img:hover {
+    width:300px;
+    height:300px;
+}
+
+
+#kep {
+    float: right;
+    width:500px;
+    height:700px;
+}
+
+
+#kep:hover {
+    float: right;
+    width:550px;
+    height:750px;
+}
+
+
+p {
+font-size: 56px;
+}
+
+
+p:hover {
+    background-color: rgba(213, 216, 213, 0.288);
+    font-size:60px;
+}
+
+
+h1 {
+font-size:24px;
+}
+
+
+h1:hover {
+    background-color: rgba(213, 216, 213, 0.288);
+    font-size:30px;
+}
+h2 {
+font-size:14px;
+}
+h2:hover {
+    background-color: rgba(213, 216, 213, 0.288);
+    font-size:16px;
+}
+
+
+h3 {
+    font-size:14px;
+}
+
+
+#kubuntu:hover {
+    width:260px;
+    height:130px;
+}
+
+
+#xubuntu:hover {
+    width:270px;
+    height:140px;  
+}
+#lubuntu {
+    width:210px;
+    height:120px;
+}
+#lubuntu:hover {
+    width: 230px;
+    height:140px;
+}
+
+
+#edubuntu {
+    padding:10px;
+    margin: 10px;
+    width:260px;
+    height:120px;
+}
+
+
+#edubuntu:hover {
+    width:270px;
+    height:130px;
+}
+
+
+#ubuntu_studio {
+    width:200px;
+    height:120px;
+}
+
+
+#ubuntu_studio:hover {
+    width:210px;
+    height:130px;
+}
+
+
+#ubuntu_mate {
+    width:250px;
+    height:170px;
+}
+
+
+#ubuntu_mate:hover {
+    width:290px;
+height:190px;
+}
+
+
+#gobuntu {
+    width:220px;
+    height:120px;
+}
+
+
+#gobuntu:hover {
+    width:240px;
+    height:130px;
+}
+#ot {
+    width:700px;
+    height:280px;
+}
+
